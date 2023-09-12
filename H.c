@@ -9,10 +9,10 @@ int main(){
         }
     }
     if (count == 2){
-        printf("Yes");
+        printf("YES");
     }
     else{
-        printf("No");
+        printf("NO");
     }
 
     return 0;
